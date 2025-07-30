@@ -1,6 +1,6 @@
 {
   "chainId": 101,
-  "address": "5HhZcSuYHEBr6GmvuDEu6k4u3rRfv7VtJrJtjZPUEtGK",    // Mint address del token
+  "address": "5HhZcSuYHEBr6GmvuDEu6k4u3rRfv7VtJrJtjZPUEtGK", 
   "symbol": "CHAN",
   "name": "Chan Token",
   "decimals": 9,
