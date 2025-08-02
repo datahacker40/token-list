@@ -1,12 +1,3 @@
-{
-  "chainId": 101,
-  "address": "5HhZcSuYHEBr6GmvuDEu6k4u3rRfv7VtJrJtjZPUEtGK", 
-  "symbol": "CHAN",
-  "name": "Chan Token",
-  "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/datahacker40/chan-token-assets/main/chanlogo.png",
-  "tags": ["memecoin"]
-}
 
 {
   "chainId": 101,
@@ -17,7 +8,6 @@
   "logoURI": "https://i.ibb.co/HTL0qpsj/CHAN2x2.jpg",
   "tags": ["utility-token", "meme"],
   "extensions": {
-    "website": "https://pastebin.com/9L2w1Nrg",
-    "twitter": "https://twitter.com/"  // si tienes, cámbialo
+    "website": "https://pastebin.com/9L2w1Nrg"
   }
 }
