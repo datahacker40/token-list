@@ -1,13 +1,29 @@
-
 {
-  "chainId": 101,
-  "address": "7p7PobW1bJo2rt8K5j91nEvmWErtDXkMkUcBFzBwpump",
-  "symbol": "CHAN",
-  "name": "Chan",
-  "decimals": 6,
-  "logoURI": "https://i.ibb.co/HTL0qpsj/CHAN2x2.jpg",
-  "tags": ["utility-token", "meme"],
-  "extensions": {
-    "website": "https://pastebin.com/9L2w1Nrg"
-  }
+  "name": "Solana Token List",
+  "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/solana-logo.svg",
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Tokens with a use case"
+    },
+    "meme": {
+      "name": "Meme",
+      "description": "Meme tokens or joke projects"
+    }
+  },
+  "timestamp": "2025-08-02T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "7p7PobW1bJo2rt8K5j91nEvmWErtDXkMkUcBFzBwpump",
+      "symbol": "CHAN",
+      "name": "Chan",
+      "decimals": 6,
+      "logoURI": "https://i.ibb.co/HTL0qpsj/CHAN2x2.jpg",
+      "tags": ["utility-token", "meme"],
+      "extensions": {
+        "website": "https://pastebin.com/9L2w1Nrg"
+      }
+    }
+  ]
 }
