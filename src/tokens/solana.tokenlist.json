@@ -1,13 +1,15 @@
-
 {
   "chainId": 101,
-  "address": "7p7PobW1bJo2rt8K5j91nEvmWErtDXkMkUcBFzBwpump",
+  "address": "5HhZcSuYHEBr6GmvuDEu6k4u3rRfv7VtJrJtjZPUEtGK",
   "symbol": "CHAN",
-  "name": "Chan",
-  "decimals": 6,
-  "logoURI": "https://i.ibb.co/HTL0qpsj/CHAN2x2.jpg",
-  "tags": ["utility-token", "meme"],
+  "name": "CHAN",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/VrUjXsL.png",
+  "tags": ["community"],
   "extensions": {
-    "website": "https://pastebin.com/9L2w1Nrg"
+    "website": "",
+    "twitter": "",
+    "description": "La memecoin más divertida del ecosistema Solana.",
+    "creator": "4beNQ4pj579iaQiAtAMiYgVoHHZhDfozw9o7yYS1p6Dj"
   }
 }
